@@ -6,4 +6,3 @@ Feature: Logged in users and posts
     When we log out
     and we are at the index page
       Then we should see the post with "test1" and "test1" as the title and text
-
